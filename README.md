@@ -9,3 +9,8 @@
 2015/09/23 蓦然LabManual_登录模块_20150923.pdf 已发布 （已删除）
 
 2015/09/24 蓦然LabManual_登录模块_v1.0.pdf (修复LoginHandle的BUG) 谢谢学员:北京_warrenz指出bug
+
+2015/10/09 蓦然LabManual发布下列模块：
+蓦然目录结构_v1.0
+蓦然LabManual_注册模块_v1.0
+蓦然LabManual_个人信息模块_v1.0
