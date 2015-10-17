@@ -16,3 +16,8 @@
 蓦然目录结构_v1.0   
 蓦然LabManual注册模块_v1.0   
 蓦然LabManual个人信息模块_v1.0   
+
+2015/10/17 蓦然LabManual发布下列模块： 
+
+蓦然LabManual发表模块_v1.0   
+蓦然LabManual个人信息模块_v1.1 （修复Bug）
