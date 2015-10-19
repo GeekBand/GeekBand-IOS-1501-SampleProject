@@ -21,3 +21,10 @@
 
 蓦然LabManual发表模块_v1.0   
 蓦然LabManual个人信息模块_v1.1 （修复Bug）
+
+2015/10/19 蓦然LabManual更新下列模块：
+蓦然LabManual 格式更新。
+蓦然LabManual 发表模块_v1.1 （参数更新）
+蓦然LabManual 上传头像模块_v1.0 （返回信息更新） 
+蓦然LabManual 更改用户名模块_v1.0 （返回信息更新）
+蓦然LabManual 获取地理位置模块_v1.0 (返回信息更新)

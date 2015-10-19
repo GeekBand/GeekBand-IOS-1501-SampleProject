@@ -1,0 +1,20 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="169" y="551" color="16711680" length="20" direction="3"/>
+    <LengthMark x="170" y="615" color="16711680" length="20" direction="3"/>
+    <TextMark x="219" y="311" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="149" text="图片与屏幕宽度相同，等比缩放图片"/>
+    <TextMark x="192" y="587" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="32px 黑体－简&#xD;中体 浑厚&#xD;#444444"/>
+    <LengthMark x="25" y="631" color="16711680" length="32" direction="12"/>
+    <LengthMark x="24" y="631" color="16711680" length="32" direction="3"/>
+    <TextMark x="360" y="631" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="20px ＃9f9fa0&#xD;黑体－简&#xD;中体 浑厚"/>
+    <LengthMark x="0" y="611" color="16711680" length="26" direction="12"/>
+    <LengthMark x="57" y="646" color="16711680" length="12" direction="12"/>
+    <LengthMark x="87" y="662" color="16711680" length="22" direction="3"/>
+    <LengthMark x="21" y="713" color="16711680" length="60" direction="12"/>
+    <TextMark x="211" y="693" color="16711680" offsetX="149" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="129" text="26px ＃ee7f41&#xD;黑体－简&#xD;中体 浑厚"/>
+    <TextMark x="223" y="733" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="18px ＃9f9fa0&#xD;黑体－简&#xD;中体 浑厚"/>
+    <LengthMark x="153" y="712" color="16711680" length="10" direction="3"/>
+    <LengthMark x="153" y="744" color="16711680" length="24" direction="3"/>
+    <LengthMark x="80" y="700" color="16711680" length="18" direction="12"/>
+  </Marks>
+</MKM>

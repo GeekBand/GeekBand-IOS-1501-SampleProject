@@ -1,0 +1,26 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="524" y="62" color="16711680" length="98" direction="12"/>
+    <LengthMark x="537" y="53" color="16711680" length="60" direction="3"/>
+    <TextMark x="575" y="105" color="16711680" offsetX="57" offsetY="57" defaultDirection="6" direction="6" textMaxWidth="100" text="24px 黑体－简&#xD;中体 浑厚&#xD;"/>
+    <TextMark x="528" y="75" color="16711680" offsetX="36" offsetY="36" defaultDirection="5" direction="5" textMaxWidth="131" text="＃ffffff&#xD;hover 60% alpha"/>
+    <LengthMark x="178" y="552" color="16711680" length="66" direction="3"/>
+    <LengthMark x="231" y="634" color="16711680" length="186" direction="3"/>
+    <LengthMark x="415" y="836" color="16711680" length="74" direction="3"/>
+    <LengthMark x="252" y="566" color="16711680" length="32" direction="12"/>
+    <LengthMark x="252" y="566" color="16711680" length="32" direction="3"/>
+    <LengthMark x="350" y="128" color="16711680" length="424" direction="3"/>
+    <TextMark x="446" y="364" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="图片与此区域内等比缩放到最大"/>
+    <TextMark x="390" y="584" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="22px ＃9f9fa0&#xD;黑体－简&#xD;细体 浑厚&#xD;"/>
+    <LengthMark x="343" y="619" color="16711680" length="14" direction="3"/>
+    <TextMark x="179" y="669" color="16711680" offsetX="100" offsetY="15" defaultDirection="10" direction="10" textMaxWidth="100" text="25px ＃9f9fa0&#xD;黑体－简&#xD;中体 浑厚&#xD;"/>
+    <TextMark x="331" y="853" color="16711680" offsetX="70" offsetY="70" defaultDirection="9" direction="9" textMaxWidth="100" text="25px ＃9f9fa0&#xD;黑体－简&#xD;中体 浑厚&#xD;"/>
+    <TextMark x="258" y="897" color="16711680" offsetX="67" offsetY="31" defaultDirection="10" direction="10" textMaxWidth="129" text="点击见：选择地点"/>
+    <LengthMark x="283" y="579" color="16711680" length="14" direction="12"/>
+    <LengthMark x="19" y="851" color="16711680" length="44" direction="12"/>
+    <LengthMark x="19" y="852" color="16711680" length="44" direction="3"/>
+    <LengthMark x="0" y="866" color="16711680" length="20" direction="12"/>
+    <LengthMark x="62" y="874" color="16711680" length="10" direction="12"/>
+    <TextMark x="602" y="777" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="5" textMaxWidth="61" text="25字后无法输入"/>
+  </Marks>
+</MKM>

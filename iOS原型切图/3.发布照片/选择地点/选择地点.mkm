@@ -1,0 +1,11 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="392" y="766" color="16711680" length="120" direction="3"/>
+    <LengthMark x="107" y="766" color="16711680" length="32" direction="3"/>
+    <TextMark x="161" y="804" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="24px 黑体－简&#xD;中体 浑厚&#xD;＃444444"/>
+    <LengthMark x="97" y="823" color="16711680" length="12" direction="3"/>
+    <TextMark x="222" y="859" color="16711680" offsetX="108" offsetY="52" defaultDirection="10" direction="10" textMaxWidth="130" text="20px ＃9f9fa0&#xD;黑体－简&#xD;中体 浑厚"/>
+    <LengthMark x="531" y="668" color="16711680" length="470" direction="3"/>
+    <TextMark x="253" y="358" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="192" text="50%黑色半透明遮罩"/>
+  </Marks>
+</MKM>
